@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Shuffler.Business/1.0.0": {
+        "dependencies": {
+          "Shuffler.Common": "1.0.0"
+        },
+        "runtime": {
+          "Shuffler.Business.dll": {}
+        }
+      },
+      "Shuffler.Common/1.0.0": {
+        "runtime": {
+          "Shuffler.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shuffler.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shuffler.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

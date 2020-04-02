@@ -1,0 +1,11 @@
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\bin\Debug\netcoreapp3.1\Shuffler.Business.deps.json
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\bin\Debug\netcoreapp3.1\Shuffler.Business.dll
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\bin\Debug\netcoreapp3.1\Shuffler.Business.pdb
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\bin\Debug\netcoreapp3.1\Shuffler.Common.dll
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\bin\Debug\netcoreapp3.1\Shuffler.Common.pdb
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\obj\Debug\netcoreapp3.1\Shuffler.Business.csprojAssemblyReference.cache
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\obj\Debug\netcoreapp3.1\Shuffler.Business.AssemblyInfoInputs.cache
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\obj\Debug\netcoreapp3.1\Shuffler.Business.AssemblyInfo.cs
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\obj\Debug\netcoreapp3.1\Shuffler.Business.csproj.CopyComplete
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\obj\Debug\netcoreapp3.1\Shuffler.Business.dll
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Business\obj\Debug\netcoreapp3.1\Shuffler.Business.pdb

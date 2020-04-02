@@ -1,0 +1,8 @@
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\bin\Debug\netcoreapp3.1\Shuffler.Common.deps.json
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\bin\Debug\netcoreapp3.1\Shuffler.Common.dll
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\bin\Debug\netcoreapp3.1\Shuffler.Common.pdb
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\obj\Debug\netcoreapp3.1\Shuffler.Common.AssemblyInfoInputs.cache
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\obj\Debug\netcoreapp3.1\Shuffler.Common.AssemblyInfo.cs
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\obj\Debug\netcoreapp3.1\Shuffler.Common.dll
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\obj\Debug\netcoreapp3.1\Shuffler.Common.pdb
+C:\Users\richardl\Desktop\ExamApp\Shuffler\Shuffler.Common\obj\Debug\netcoreapp3.1\Shuffler.Common.csprojAssemblyReference.cache
